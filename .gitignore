@@ -1,3 +1,6 @@
 #InjelliJ
 .idea/
 *.iml
+
+#Outros
+servidor/
