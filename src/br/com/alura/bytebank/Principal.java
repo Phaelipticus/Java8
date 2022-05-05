@@ -27,7 +27,9 @@ public class Principal {
         System.out.println("ALTERAÇÃO");
 
         List<String> nomes = new ArrayList<>();
-
+        nomes.add("Alvaro");
+        nomes.add("Arthur");
+        nomes.add("Helena");
 
     }
 
