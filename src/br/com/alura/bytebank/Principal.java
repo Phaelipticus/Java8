@@ -31,6 +31,9 @@ public class Principal {
         nomes.add("Arthur");
         nomes.add("Helena");
 
+        System.out.println("Req2");
+
+
     }
 
 }
