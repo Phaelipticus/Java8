@@ -23,7 +23,7 @@ public class Principal {
         //leitorCSV = new LeitorCSV();
         List<Pagamento> pagamentos = leitorCSV.ler(1);
 
-
+        System.out.println("ALTERAÇÃO");
 
 
 
