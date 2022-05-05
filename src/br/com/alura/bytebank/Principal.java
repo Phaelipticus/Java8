@@ -24,8 +24,7 @@ public class Principal {
         List<Pagamento> pagamentos = leitorCSV.ler(1);
 
 
-
-
+        System.out.println("Req2");
 
     }
 
