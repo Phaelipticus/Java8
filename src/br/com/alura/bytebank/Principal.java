@@ -8,6 +8,7 @@ import br.com.alura.bytebank.model.Pagamento;
 import br.com.alura.bytebank.visualizador.OpcoesPagamento;
 
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.List;
 
 public class Principal {
@@ -25,6 +26,7 @@ public class Principal {
 
         System.out.println("ALTERAÇÃO");
 
+        List<String> nomes = new ArrayList<>();
 
 
     }
